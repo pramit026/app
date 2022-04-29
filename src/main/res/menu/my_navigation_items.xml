@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/nav_prescription"
+        android:icon="@drawable/ic_baseline_prescriptionsandmedicines_24"
+        android:title="Medications"/>
+
+
+    <item
+        android:id="@+id/nav_caloriecounter"
+        android:icon="@drawable/ic_baseline_caloriecounter_bottom_24"
+        android:title="Calorie Counter"/>
+    <item
+        android:id="@+id/nav_dietplanner"
+        android:icon="@drawable/ic_baseline_dietplanner_today_24"
+        android:title="Diet Planner"/>
+    <item
+        android:id="@+id/nav_Exerciseroutines"
+        android:icon="@drawable/ic_baseline_exerciseroutines_run_24"
+        android:title="Exercise Routines"/>
+
+    <item
+        android:id="@+id/nav_Alert"
+        android:icon="@drawable/ic_baseline_add_alert_24"
+        android:title="Set Reminders"/>
+
+
+    <item
+        android:id="@+id/nav_appointadoc"
+        android:icon="@drawable/ic_baseline_appointadoc_services_24"
+        android:title="Appoint a Doctor"/>
+    <item
+        android:id="@+id/nav_epharmastore"
+        android:icon="@drawable/ic_baseline_epharma_24"
+        android:title="e-Pharma Store"/>
+    <item
+        android:id="@+id/nav_rewards"
+        android:icon="@drawable/ic_baseline_rewards_24"
+        android:title="Rewards"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/nav_aboutus"
+        android:icon="@drawable/ic_baseline_aboutus_24"
+        android:title="About Us"/>
+
+
+</menu>
